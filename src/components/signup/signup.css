@@ -1,0 +1,9 @@
+.container {
+    max-width: 60vh;
+    margin-top: 50px;
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
